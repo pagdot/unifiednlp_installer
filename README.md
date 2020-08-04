@@ -7,7 +7,7 @@ Just install UnifiedNlp as system-less app
 - Add repo files inside zip archive to get structure as described in [Magisk Developer Guides](https://topjohnwu.github.io/Magisk/guides.html)  
 - Install module using Magisk Manager
 
-On Android 10 this app have problems witn storage acces, to fix this problem i write [patcher](https://github.com/McPcholkin/runtime-permission_patcher)
+On Android 10 this app have problems witn location acces, to fix this problem i write [patcher](https://github.com/McPcholkin/runtime-permission_patcher)
 
 Thanks:
 - **microG project** for their awesome work  
