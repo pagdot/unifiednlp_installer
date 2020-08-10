@@ -1,6 +1,6 @@
 # UnifiedNlp installer for magisk
 
-Just install UnifiedNlp as system-less app
+Just install [UnifiedNlp 1.6.8 NoGapps (UnifiedNlp.apk) ](https://github.com/microg/UnifiedNlp) as system app
 
 ## How to make magisk module:
 - Clone repo (or download as zip)
