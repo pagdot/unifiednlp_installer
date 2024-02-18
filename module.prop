@@ -1,6 +1,6 @@
 id=unifiednlp_installer
-name=UnifiedNlp 1.6.8 NoGapps
+name=UnifiedNlp 1.6.8 Gapps
 version=Ver: 1.6.8 
 versionCode=168
-author=microG project, mar-v-in, McPcholkin
+author=microG project, pagdot
 description=Install UnifiedNlp (UnifiedNlp.apk) to system
